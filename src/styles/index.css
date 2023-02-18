@@ -1,0 +1,10 @@
+.place-explorer-tool {
+  padding: 25px 0px;
+}
+.mapboxgl-canvas {
+  width: 2600px !important;
+  height: 700px !important;
+}
+.mapboxgl-ctrl {
+  display: none;
+}
